@@ -5,5 +5,5 @@ This study explored the application of the Transformer model in sentiment analys
 publicly available application review dataset.
 Our findings reveal that the optimal model for
 sentiment analysis for application reviews is
-contingent upon computational resources, train011 ing time constraints, and the diversity of labels
+contingent upon computational resources, training time constraints, and the diversity of labels
 within the dataset.
